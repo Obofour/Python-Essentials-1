@@ -1,0 +1,2 @@
+Paste the URL in your browser
+https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC

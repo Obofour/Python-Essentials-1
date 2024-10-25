@@ -1,0 +1,2 @@
+# it is time to start writing some real working Python code.it'll be very simple for the time being.
+# As we are going to show you some fundamentals concept and terms,these snippet code won't be all  that serious and complex
